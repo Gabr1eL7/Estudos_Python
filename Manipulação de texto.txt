@@ -1,0 +1,8 @@
+.len(conprimento)
+.count(contar quantas vezes uma palavra ou frase foi utilizada)
+.find(localiza a posição da frase)
+.replace(substitui uma palavra por outra)
+.upper()(Deixa tudo em caixa alta)
+.lower()(Deixa tudo em caixa baixa)
+.tittle()(A primeira letra de cada palavra na frase é mantida em caixa alta)
+.split()(Divisão)

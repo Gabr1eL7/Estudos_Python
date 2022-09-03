@@ -1,0 +1,13 @@
+TIPOS PRIMITIVOS
+
+INT - Qualquer numero inteiro e natural 
+(7, -4, 0, 9875)
+
+FLOOT - Qualquer numero acompanhado com ponto (quebrado)
+
+(4.5, 0.0076, 7.0)
+
+BOOL - Aceita apenas verdadeiro e falso(True e False)
+
+STR - Numero 
+('ola', '')

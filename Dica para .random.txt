@@ -1,0 +1,18 @@
+Dica para uso do random
+
+Random.random() # valor de 0.0 até 1.0
+ex: 0.852568168484
+
+Random.uniform(4,10) # valor decimal do minimo ao maximo
+ex:8.15681687
+
+Random.randint(12,55) # valor inteiro do minimo ao maximo
+ex: 30 , 43, 52 ...
+
+random.choice() # escolhe uma opção dentro de uma fonte
+ex:
+cores = ['amarelo', 'verde','azul']
+print(random.choice(cores))
+
+Random.shuffle # embaralha de forma aleatoria 
+ex
